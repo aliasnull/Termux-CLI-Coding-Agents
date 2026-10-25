@@ -25,6 +25,7 @@ Each agent has its own dedicated guide containing relevant installation instruct
 | OmniRush | [View Guide](agents/omnirush.md) |
 | Clixad CLI | [View Guide](agents/clixad-cli.md) |
 | GitLab Duo CLI | [View Guide](agents/gitlab-duo-cli.md) |
+| Antigravity CLI | [View Guide](agents/antigravity-cli.md) |
 
 More guides will be added as additional CLI coding agents are tested.
 
