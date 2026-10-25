@@ -23,6 +23,7 @@ Each agent has its own dedicated guide containing relevant installation instruct
 |---|---|
 | Qoder CLI | [View Guide](agents/qoder-cli.md) |
 | OmniRush | [View Guide](agents/omnirush.md) |
+| Clixad CLI | [View Guide](agents/clixad-cli.md) |
 
 More guides will be added as additional CLI coding agents are tested.
 
