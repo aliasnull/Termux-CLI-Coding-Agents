@@ -1,14 +1,14 @@
-Termux CLI Coding Agents
+# Termux CLI Coding Agents
 
-A collection of CLI coding agents tested on Termux for Android, with practical guides to help users install, configure, and use AI-powered coding tools directly from their Android devices.
+A collection of CLI coding agents tested on **Termux for Android**, with practical guides to help users install, configure, and use AI-powered coding tools directly from their Android devices.
 
-About
+## About
 
 Running CLI coding agents on Android can require additional setup, dependencies, and configuration. This repository brings their documentation together in one place, making it easier to explore available tools and follow their installation guides.
 
 Each agent has its own dedicated guide containing relevant installation instructions, setup steps, usage examples, and testing information.
 
-Features
+## Features
 
 - Installation guides for CLI coding agents on Termux.
 - Setup and authentication instructions.
@@ -17,15 +17,16 @@ Features
 - Troubleshooting and uninstallation instructions where available.
 - A centralized collection of guides for Android users.
 
-Available Guides
+## Available Guides
 
-CLI Coding Agent| Guide
-Qoder CLI| "View Guide" (agents/qoder-cli.md)
-OmniRush| "View Guide" (agents/omnirush.md)
+| CLI Coding Agent | Guide |
+|---|---|
+| Qoder CLI | [View Guide](agents/qoder-cli.md) |
+| OmniRush | [View Guide](agents/omnirush.md) |
 
 More guides will be added as additional CLI coding agents are tested.
 
-Compatibility
+## Compatibility
 
 These guides focus on running CLI coding agents in the Termux environment on Android.
 
@@ -33,7 +34,7 @@ Compatibility, dependencies, and available features may vary between tools. Test
 
 Unless explicitly stated, compatibility with every Android device or Termux environment is not guaranteed.
 
-Contributing
+## Contributing
 
 Have you successfully installed and tested another CLI coding agent on Termux?
 
@@ -41,12 +42,8 @@ Contributions are welcome! You can help by sharing verified installation instruc
 
 Please include relevant testing details so others can understand which features have been verified.
 
-Disclaimer
+## Disclaimer
 
-This is an independent community documentation project. It is not officially affiliated with or endorsed by the developers of the individual tools documented here.
+This is an independent documentation project. It is not officially affiliated with or endorsed by the developers of the individual tools documented here.
 
 Always refer to the respective projects' official documentation for the latest information.
-
-License
-
-See the "LICENSE" (LICENSE) file for licensing information.
