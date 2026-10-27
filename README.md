@@ -27,6 +27,7 @@ Each agent has its own dedicated guide containing relevant installation instruct
 | GitLab Duo CLI | [View Guide](agents/gitlab-duo-cli.md) |
 | Antigravity CLI | [View Guide](agents/antigravity-cli.md) |
 | Codebuddy CLI | [View Guide](agents/codebuddy.md) |
+| Cline CLI | [View Guide](agents/cline.md) |
 
 More guides will be added as additional CLI coding agents are tested.
 
