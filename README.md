@@ -29,6 +29,7 @@ Each agent has its own dedicated guide containing relevant installation instruct
 | Codebuddy CLI | [View Guide](agents/codebuddy.md) |
 | Cline CLI | [View Guide](agents/cline.md) |
 | PerchAi CLI | [View Guide](agents/perchai.md) |
+| OpenCode CLI | [View Guide](https://github.com/aliasnull/opencode-termux-native) |
 
 More guides will be added as additional CLI coding agents are tested.
 
